@@ -1,0 +1,39 @@
+/**************************/
+/*Estilizando o furmulario*/
+
+#form{
+	font-size: 16px;
+	color: #24BFF3;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#logo{
+	text-align: center;
+	margin-top: 50px;
+}
+
+#vermelho{
+	color: #24BFF3;
+
+}
+
+#cabecalho{
+	font-family: Arial;
+	color: gray;
+	margin-top: 20px;
+
+}
+#gambiarra{
+	margin-top: 80px;
+}
+/**************************/
+
+
+body{
+	
+}
+p{
+	text-align: center;
+	color: #24BFF3;
+}
